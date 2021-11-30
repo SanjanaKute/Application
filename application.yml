@@ -1,0 +1,9 @@
+my:
+   greeting: Hello World
+   list:
+   value: 1,2,3
+
+db:
+   connection: "{connectionString:'http://8800',userName:'foo',password:'pass'}"
+   host: 127.0.0.1
+   port: 1200
